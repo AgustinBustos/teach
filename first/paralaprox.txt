@@ -1,0 +1,9 @@
+checkear wordpress
+
+hacer mini html
+h1, h2, h3
+br, hr
+p, a, img
+buscar mas
+
+mandar mail cada 12 horas, smtp time
