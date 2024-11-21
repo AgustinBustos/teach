@@ -7,3 +7,11 @@ p, a, img
 buscar mas
 
 mandar mail cada 12 horas, smtp time
+
+
+-----------------------------------------------------
+
+
+hacer un boton que tocas y cambia algo de la pagina
+voy a pasar videos tranquis interesantes
+buscar algo para hacer
